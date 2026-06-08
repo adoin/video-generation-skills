@@ -1,0 +1,39 @@
+{
+  "$schema": "./catalog.schema.json",
+  "name": "video-generation-skills",
+  "version": "0.1.0",
+  "description": "AI 视频生成技能包：提示词方法论、电商、品牌广告、叙事制片",
+  "repository": "video-generation-skills",
+  "skills": [
+    {
+      "name": "prompt-director",
+      "path": "skills/prompt-director",
+      "priority": "P0",
+      "description": "提示词创作方法论（构图、光线、运镜、一致性、角色控制等）"
+    },
+    {
+      "name": "ecommerce",
+      "path": "skills/ecommerce",
+      "priority": "P0",
+      "description": "电商素材工作流（服装、3C、美妆、详情页、UGC 种草）"
+    },
+    {
+      "name": "brand-ad-cg",
+      "path": "skills/brand-ad-cg",
+      "priority": "P1",
+      "description": "品牌营销、TVC、产品 CG 大片、风格化广告"
+    },
+    {
+      "name": "ai-video-director",
+      "path": "skills/ai-video-director",
+      "priority": "P1",
+      "description": "叙事型视频制片（短剧/漫剧 + 分镜/故事板/一致性）"
+    }
+  ],
+  "install": {
+    "all": "npx skills add <owner>/video-generation-skills --all",
+    "single": "npx skills add <owner>/video-generation-skills --skill <skill-name>",
+    "list": "npx skills add <owner>/video-generation-skills --list",
+    "local": "npx skills add ./video-generation-skills --agent cursor -y"
+  }
+}
