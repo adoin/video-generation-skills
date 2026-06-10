@@ -49,7 +49,7 @@ AI **叙事型视频制片**：短剧/漫剧 + 一致性/分镜/故事板。
 3. 每镜一个控制点
 4. 废片回收 → production/consistency
 
-教程索引 → [references/INDEX.md](references/INDEX.md)（11 篇）
+教程索引 → [references/INDEX.md](references/INDEX.md)（含 [2851](https://www.super-i.cn/info-2851.html) · [2859](https://www.super-i.cn/info-2859.html) 2026-06 站更）
 
 ## 交叉引用
 

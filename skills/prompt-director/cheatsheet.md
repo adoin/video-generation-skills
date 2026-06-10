@@ -39,6 +39,7 @@
 | `过去式/假因果/时间态` | time-causality.md |
 | `反推/JSON/脑海画面没词` | json-and-reverse.md |
 | `图生视频/多动作` | video-prompt.md |
+| `seedance2.0/全能参考/多资产编号` | video-prompt.md（全能参考节）+ ai-video-director/short-drama.md |
 | `人物一致/多角色/产品一致` | consistency.md |
 | `故事板/多镜/导演调度` | director-storyboard.md |
 | `演技/声音/妆造/活人感` | character-performance.md |

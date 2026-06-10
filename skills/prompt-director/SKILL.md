@@ -94,7 +94,7 @@ INDEX / SECTIONS.md → 得文件名 → 文件内搜 `§N` → 只读该标题�
 | [time-causality.md](references/time-causality.md) | §11/13 时间/因果 |
 | [json-and-reverse.md](references/json-and-reverse.md) | §14–16/19/22/27/31/52 反推JSON |
 | [style-prompts.md](references/style-prompts.md) | §17/18 风格 |
-| [video-prompt.md](references/video-prompt.md) | §28/50/54 图生视频 |
+| [video-prompt.md](references/video-prompt.md) | §28/50/54 图生视频 · seedance2.0 全能参考 |
 | [color-grading.md](references/color-grading.md) | §23/38 调色 |
 | [consistency.md](references/consistency.md) | §24/37/40/43/45/46 一致性 |
 | [atmosphere.md](references/atmosphere.md) | §32 氛围 |

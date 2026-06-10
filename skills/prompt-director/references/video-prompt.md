@@ -234,6 +234,51 @@ man's hand white-knuckled on the glass base, jaw clenched.
 
 ---
 
+## seedance2.0 全能参考（短剧/短片成片）
+
+> 溯源：[info-2859](https://www.super-i.cn/info-2859.html) · 制片流程 → `ai-video-director` narrative/short-drama.md
+
+**适用：** 已有人物/场景/道具资产图，需要多参考图 + 分镜一起驱动视频（站内称「全能参考」）。
+
+### 提示词六段结构
+
+```
+【光线布置】  ← 参考片拆解（第一步母版）
+【风格】
+【拍摄参数】
+【画面处理】
+【主角形象】  ← 可复用人物描述模板
+【分镜画面】  ← 15 秒段落级分镜输出
+```
+
+### 参考图编号（必须写进 prompt）
+
+上传人物/道具/场景/声线后，在提示词里**显式标注**，勿只上传不引用：
+
+```
+女主图1
+男主图2
+铃铛图3
+河灯图4
+场景图5
+```
+
+### 声线参考
+
+1. 先生成一段**含男女主对白**的视频（可不作成片）
+2. 剪映分别导出男主声线、女主声线
+3. 声线文件作为后续全能参考素材之一
+
+### 与 §50 的关系
+
+| 层级 | 规则 |
+|------|------|
+| §50 | 单镜 I2V：首帧已定调，只写运动；一镜一种逻辑 |
+| 全能参考 | 多资产编号 + 六段结构；单段 ≤15s、少塞动作 |
+| 二者叠加 | 六段里【分镜画面】仍遵守 §50，勿重新堆 8K/冲突风格词 |
+
+---
+
 ## 与其他文件的分工
 
 | 情况 | 读 |
@@ -241,6 +286,7 @@ man's hand white-knuckled on the glass base, jaw clenched.
 | 单动作质感 | 本文 §28 |
 | 图生视频卫生/时间线 | 本文 §50 |
 | 步态/动作链/身体联动 | 本文 §54 |
+| seedance2.0 多参考成片 | 本文「全能参考」+ ai-video-director/short-drama.md |
 | 角度/焦段/景别情绪 | [camera-movement.md](camera-movement.md) §33 |
 | 微表情幅度 | [character-performance.md](character-performance.md) §29 |
 | 行为动机/活人感 | [character-performance.md](character-performance.md) §53 |

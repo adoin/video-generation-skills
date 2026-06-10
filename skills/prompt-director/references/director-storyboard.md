@@ -282,3 +282,14 @@ blurred restaurant scene beyond the rim, refraction effects
 
 按故事板镜号简述动作与运镜；人物与风格引用已上传参考；对话情节单独文本附上
 
+### 案例：30 秒日系预告（info-2851）
+
+与 §57 同一思想，**落地顺序**为：
+
+```
+四大风格板块 → 编剧 Skill 出剧本 → 场景四宫格（先于人物）
+→ 人物三视图资产 → 逐镜分镜四宫格 → seedance2.0 一镜一 prompt → 剪辑
+```
+
+要点：故事板不是一次文生视频，而是**风格规则 + 场景底图 + 角色资产 + 分镜图**四层锁定后再视频化。详见 `ai-video-director/references/narrative/film-style.md` §三。
+
