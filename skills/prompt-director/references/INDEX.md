@@ -1,6 +1,6 @@
 # 提示词创作 · 索引
 
-> §1–§55、§57 已迁入本 skill（§56 排除）。日常创作读 [cheatsheet.md](../cheatsheet.md)；深度展开按需打开 **1–2 个** reference。本表为溯源索引，创作时读 reference 正文。
+> §1–§55、§57–61 已迁入本 skill（§56 排除）。日常创作读 [cheatsheet.md](../cheatsheet.md)；深度展开按需打开 **1–2 个** reference。本表为溯源索引，创作时读 reference 正文。
 >
 > **点名某一 §？** 读 [SECTIONS.md](SECTIONS.md) 平铺表 → 到对应文件内搜索 `§N` 标题，只读该段，勿通读整文件。
 
@@ -63,6 +63,10 @@
 | §55 | 妆造提升质感 | character-performance.md |
 | §56 | — | **排除**（自建 Skill 教程，非提示词技法） |
 | §57 | AI 故事板 | director-storyboard.md |
+| §58 | AI 长视频衔接四法 | video-prompt.md |
+| §59 | 短剧活起来（三层动态/调度） | character-performance.md |
+| §60 | 空镜与插入镜头 | director-storyboard.md |
+| §61 | Agent 任务 GCSD | workflows/agent-task.md |
 
 ## 按场景打开 reference
 
@@ -74,7 +78,10 @@
 | 反推 / JSON / 没词 | json-and-reverse.md |
 | 图生视频 / 多动作 | video-prompt.md |
 | 人物一致 / 多角色 / 产品 | consistency.md |
-| 故事板 / 导演调度 | director-storyboard.md |
+| 故事板 / 导演调度 / 空镜 | director-storyboard.md |
+| 长视频多段衔接 | video-prompt.md §58 |
+| 短剧表演 / 调度 | character-performance.md §59 |
+| Agent 多步任务 / GCSD | workflows/agent-task.md |
 | 演技 / 声音 / 妆造 | character-performance.md |
 | 局部改图 / 标注融合 | edit-fusion.md |
 | 胶卷 / 风格 / MJ 人像 | style-prompts.md |

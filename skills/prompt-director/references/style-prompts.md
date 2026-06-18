@@ -104,3 +104,25 @@ soft optical lens quality, film halation around highlights,
 Kodak Portra 400 grain, low contrast edges
 --style raw --no glossy skin, smooth face, 8k render, cinematic glow
 
+---
+
+### 上美影动画风（三步法）
+
+> 溯源：[info-2885](https://www.super-i.cn/info-2885.html)（2026-06 站更）
+> 情绪板通用流程见上文「Higgsfield 情绪板」；Midjourney Moodboard / Storyboard 同理
+
+**原则：** 勿堆「上美影、国风、手绘」；先拆**造型、线条、色彩、背景、颗粒**再套主题。
+
+| 步骤 | 动作 |
+|------|------|
+| 1 参考 | 搜集上美影老动画截图 → Midjourney 建 Storyboard / Moodboard 上传 |
+| 2 分析 | LLM 分析共性 → 输出可复用**风格模板 prompt**（水粉手绘、国产动画美术、线条、低饱和背景等） |
+| 3 套题 | 将创意主题（如《山海经传说》）填入模板 → Moodboard + 主体词批量生成 |
+
+| ❌ 不要 | ✅ 要 |
+|--------|------|
+| 单次长 prompt 碰运气 | 参考板锁视觉 DNA，文本只写主体与情节 |
+| 每张独立抽风格 | 同一 Moodboard 贯穿系列，保证线条与色板统一 |
+
+**品牌向应用** → 亦见 `brand-ad-cg/references/brand-aesthetics.md`「上美影质感」。
+

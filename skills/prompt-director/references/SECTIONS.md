@@ -61,6 +61,10 @@
 | §54 | 人物动作自然写法 | video-prompt.md | `## §54` |
 | §55 | 妆造提升质感 | character-performance.md | `## §55` |
 | §57 | AI 故事板 | director-storyboard.md | `## §57` |
+| §58 | AI 长视频衔接四法 | video-prompt.md | `## §58` |
+| §59 | 短剧活起来（三层动态/调度） | character-performance.md | `## §59` |
+| §60 | 空镜与插入镜头 | director-storyboard.md | `## §60` |
+| §61 | Agent 任务 GCSD | workflows/agent-task.md | 全文 |
 
 ## 查找协议（Agent 用）
 

@@ -99,9 +99,10 @@ INDEX / SECTIONS.md → 得文件名 → 文件内搜 `§N` → 只读该标题�
 | [consistency.md](references/consistency.md) | §24/37/40/43/45/46 一致性 |
 | [atmosphere.md](references/atmosphere.md) | §32 氛围 |
 | [waste-recovery.md](references/waste-recovery.md) | §30 废片 |
-| [director-storyboard.md](references/director-storyboard.md) | §34/35/57 导演/故事板 |
+| [director-storyboard.md](references/director-storyboard.md) | §34/35/57/60 导演/故事板/空镜 |
 | [edit-fusion.md](references/edit-fusion.md) | §42/44 融合改图 |
-| [character-performance.md](references/character-performance.md) | §29/48–49/51/53/55 角色 |
+| [character-performance.md](references/character-performance.md) | §29/48–49/51/53/55/59 角色 |
+| [workflows/agent-task.md](workflows/agent-task.md) | §61 GCSD 任务拆解 |
 
 ## 与其他 Skill
 

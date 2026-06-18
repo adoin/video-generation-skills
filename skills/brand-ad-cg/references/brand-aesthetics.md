@@ -29,6 +29,24 @@
 
 ---
 
+### 上美影动画质感（三步）
+
+> 溯源：[info-2885](https://www.super-i.cn/info-2885.html)（2026-06 站更）
+> Prompt 模板提炼 → `prompt-director/references/style-prompts.md`
+
+| 步骤 | 动作 |
+|------|------|
+| 1 | 搜集上美影老动画截图 → Midjourney Storyboard / Moodboard |
+| 2 | LLM 分析共性 → 可复用模板（水粉手绘、国产动画线条、背景颗粒） |
+| 3 | 套入主题批量生成，同一 Moodboard 贯穿系列 |
+
+| ❌ 不要 | ✅ 要 |
+|--------|------|
+| 堆「上美影、国风」碰运气 | 参考板锁 DNA + 短主体词 |
+| 每张独立抽 | Moodboard 全程复用 |
+
+---
+
 ### 21 种排版风格速查
 
 复制对应风格标签到 Nano Banana / Gemini 即可切换视觉：

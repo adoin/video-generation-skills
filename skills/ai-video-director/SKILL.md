@@ -41,6 +41,8 @@ AI **叙事型视频制片**：短剧/漫剧 + 一致性/分镜/故事板。
 | 分镜/复杂动作 | [production/shot-breakdown.md](references/production/shot-breakdown.md) |
 | 人物/环境一致 | [production/consistency.md](references/production/consistency.md) |
 | 场景不穿帮 | [production/scene-continuity.md](references/production/scene-continuity.md) |
+| 长视频 15s 拼接 | [production/shot-breakdown.md](references/production/shot-breakdown.md) §四 |
+| 高端情绪短片 | [narrative/film-style.md](references/narrative/film-style.md) §五 |
 
 ## 制片铁律
 
@@ -49,7 +51,7 @@ AI **叙事型视频制片**：短剧/漫剧 + 一致性/分镜/故事板。
 3. 每镜一个控制点
 4. 废片回收 → production/consistency
 
-教程索引 → [references/INDEX.md](references/INDEX.md)（含 [2851](https://www.super-i.cn/info-2851.html) · [2859](https://www.super-i.cn/info-2859.html) 2026-06 站更）
+教程索引 → [references/INDEX.md](references/INDEX.md)（含 2851 · 2859 · 2862 · 2880 · 2881 · 2889 等 2026-06 站更）
 
 ## 交叉引用
 

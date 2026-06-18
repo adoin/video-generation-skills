@@ -1,7 +1,6 @@
 # 叙事制片教程 · 索引
 
-> 11 篇溯源目录。Agent 创作时读 reference 正文。
-> 日常读 [cheatsheet.md](../cheatsheet.md)。
+> 14 篇溯源目录。Agent 创作时读 reference 正文。
 
 ## narrative/（叙事轨）
 
@@ -14,6 +13,10 @@
 | 【AI影视】风骨荒原东方奇幻 | narrative/film-style.md |
 | 【AI短片】30 秒日系预告 · [2851](https://www.super-i.cn/info-2851.html) | narrative/film-style.md |
 | 【影视制作】童话小剧场《卖火柴的小女孩》 | narrative/short-drama.md |
+| 【提示词创作第五十八节】AI 长视频衔接 · [2862](https://www.super-i.cn/info-2862.html) | production/shot-breakdown.md §四 · prompt-director/video-prompt §58 |
+| 【提示词创作第五十九节】短剧活起来 · [2880](https://www.super-i.cn/info-2880.html) | narrative/short-drama.md · prompt-director/character-performance §59 |
+| 【提示词创作第六十节】空镜 · [2881](https://www.super-i.cn/info-2881.html) | prompt-director/director-storyboard §60 |
+| 【情绪短片】Codex 高端卫浴 · [2889](https://www.super-i.cn/info-2889.html) | narrative/film-style.md §五 · brand-ad-cg/tvc-ads.md |
 
 ## production/（制片轨）
 
