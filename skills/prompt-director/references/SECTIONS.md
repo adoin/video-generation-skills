@@ -65,6 +65,10 @@
 | §59 | 短剧活起来（三层动态/调度） | character-performance.md | `## §59` |
 | §60 | 空镜与插入镜头 | director-storyboard.md | `## §60` |
 | §61 | Agent 任务 GCSD | workflows/agent-task.md | 全文 |
+| §62 | 草图表达构图与动作 | composition.md | `## §62` |
+| §63 | 打斗提示词（ACT 视角） | video-prompt.md | `## §63` |
+| §64 | 五种导演级打光 | lighting.md | `## §64` |
+| §65 | 原创 AI 角色捏脸 | character-performance.md | `## §65` |
 
 ## 查找协议（Agent 用）
 

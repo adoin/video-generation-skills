@@ -42,6 +42,10 @@
 | `seedance2.0/全能参考/多资产编号` | video-prompt.md（全能参考节）+ ai-video-director/short-drama.md |
 | `人物一致/多角色/产品一致` | consistency.md |
 | `故事板/多镜/导演调度` | director-storyboard.md |
+| `草图构图/站位` | composition.md §62 |
+| `打斗/ACT运镜` | video-prompt.md §63 |
+| `五种打光` | lighting.md §64 |
+| `原创捏脸` | character-performance.md §65 |
 | `演技/声音/妆造/活人感` | character-performance.md |
 | `局部改图/标注融合` | edit-fusion.md |
 | `胶卷/风格提取/MJ人像` | style-prompts.md |

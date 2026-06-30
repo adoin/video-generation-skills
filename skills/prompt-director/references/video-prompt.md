@@ -1,6 +1,6 @@
 # 图生视频提示词优化
 
-> 涵盖：§50 · §28 · §54 · §58
+> 涵盖：§50 · §28 · §54 · §58 · §63
 > 适用：**图生视频（I2V）**；运镜写法见 [camera-movement.md](camera-movement.md)；锚点/状态流见 §28
 > 溯源 §58：[info-2862](https://www.super-i.cn/info-2862.html)（2026-06 站更）
 
@@ -340,6 +340,48 @@ man's hand white-knuckled on the glass base, jaw clenched.
 
 ---
 
+## §63 打斗提示词：编号参考 + ACT 视角
+
+> 溯源：[info-2893](https://www.super-i.cn/info-2893.html)（2026-06 站更）
+> 分镜增强 → [director-storyboard.md](director-storyboard.md) §57；制片拆解 → `ai-video-director/production/shot-breakdown.md` §五
+
+**区分两种 prompt：**
+- **分析指令** — 你发给识图 LLM，要求读图并产出打斗方案
+- **打斗提示词** — LLM 输出结果，选中后再交视频模型
+
+### 10 张编号参考（上传顺序固定）
+
+| 编号 | 内容 |
+|------|------|
+| 图1–2 | 主角 A 人物参考 |
+| 图3–4 | 主角 B 人物参考 |
+| 图5 | 户外场景 |
+| 图6–7 | 招式参考（身体姿态、武器轨迹、攻防距离） |
+| 图8 | 打斗风格参考 |
+| 图9 | 运镜参考 |
+| 图10 | 能量/命中特效参考 |
+
+分析指令用「图一」「图九」等编号指定每张职责；**顺序错位 = 全盘读错**。
+
+### ACT 视角（动作游戏感）
+
+| 作用 | 写法要点 |
+|------|----------|
+| 镜头跟攻击 | 突刺→镜头顺突进方向推；横斩→镜头横移跟动作 |
+| 命中停顿 | 兵器接触点短暂减速，让观众确认命中（非长时间定格） |
+| 受力反馈 | 命中时轻微镜头震动 + 被击者沿受力方向后仰/后退 |
+
+**高级运镜（三选一，勿全叠）：** 跟随主角动量 / 跟随敌人受力反馈 / 连续一镜到底（动作多则易瞬移）。
+
+### 双次抽卡
+
+1. **提示词抽卡** — 同批图+分析指令生成 3–5 套；选动作最少、因果最清、镜头方向最明的一版
+2. **视频抽卡** — 打斗提示词 + 角色/场景图进 Seedance；多生成筛连续性
+
+**故事板增强（独立可选）：** 人物瞬移、左右混乱、多阶段动作时 — 用打斗提示词 + 人物/场景在 Image 2.0 出连续草稿，再逐镜 I2V。
+
+---
+
 ## 与其他文件的分工
 
 | 情况 | 读 |
@@ -353,4 +395,5 @@ man's hand white-knuckled on the glass base, jaw clenched.
 | 微表情幅度 | [character-performance.md](character-performance.md) §29 |
 | 行为动机/活人感 | [character-performance.md](character-performance.md) §53 |
 | 短剧调度/三层动态 | [character-performance.md](character-performance.md) §59 |
+| 打斗/ACT 运镜 | 本文 §63 |
 | 摆拍感/蒙太奇 | [camera-movement.md](camera-movement.md) §36 |

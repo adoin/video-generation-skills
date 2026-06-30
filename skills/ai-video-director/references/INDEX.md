@@ -1,6 +1,6 @@
 # 叙事制片教程 · 索引
 
-> 14 篇溯源目录。Agent 创作时读 reference 正文。
+> 18 篇溯源目录。Agent 创作时读 reference 正文。
 
 ## narrative/（叙事轨）
 
@@ -17,6 +17,8 @@
 | 【提示词创作第五十九节】短剧活起来 · [2880](https://www.super-i.cn/info-2880.html) | narrative/short-drama.md · prompt-director/character-performance §59 |
 | 【提示词创作第六十节】空镜 · [2881](https://www.super-i.cn/info-2881.html) | prompt-director/director-storyboard §60 |
 | 【情绪短片】Codex 高端卫浴 · [2889](https://www.super-i.cn/info-2889.html) | narrative/film-style.md §五 · brand-ad-cg/tvc-ads.md |
+| 【AI短剧】对话戏正反打不越轴 · [2896](https://www.super-i.cn/info-2896.html) | narrative/short-drama.md |
+| 【AI 3D】战甲三视图拆件建模 · [2894](https://www.super-i.cn/info-2894.html) | narrative/3d-anime-drama.md |
 
 ## production/（制片轨）
 
@@ -25,7 +27,9 @@
 | 【AI技巧】场景不穿帮 4 法 | production/scene-continuity.md |
 | 【AI视频】分镜逻辑拆解 | production/shot-breakdown.md |
 | 【AI视频】复杂动作视频两种方法 | production/shot-breakdown.md |
+| 【提示词创作第六十三节】打斗 ACT · [2893](https://www.super-i.cn/info-2893.html) | production/shot-breakdown.md §五 · prompt-director/video-prompt §63 |
 | 【AI视频】企业宣传片图片到成片 | production/storyboard.md |
+| 【AI动画】单张故事板生成短片 · [2898](https://www.super-i.cn/info-2898.html) | production/storyboard.md §四 |
 
 ## 交叉
 

@@ -1,6 +1,6 @@
 # 提示词创作 · 索引
 
-> §1–§55、§57–61 已迁入本 skill（§56 排除）。日常创作读 [cheatsheet.md](../cheatsheet.md)；深度展开按需打开 **1–2 个** reference。本表为溯源索引，创作时读 reference 正文。
+> §1–§55、§57–65 已迁入本 skill（§56 排除）。日常创作读 [cheatsheet.md](../cheatsheet.md)；深度展开按需打开 **1–2 个** reference。本表为溯源索引，创作时读 reference 正文。
 >
 > **点名某一 §？** 读 [SECTIONS.md](SECTIONS.md) 平铺表 → 到对应文件内搜索 `§N` 标题，只读该段，勿通读整文件。
 
@@ -67,6 +67,10 @@
 | §59 | 短剧活起来（三层动态/调度） | character-performance.md |
 | §60 | 空镜与插入镜头 | director-storyboard.md |
 | §61 | Agent 任务 GCSD | workflows/agent-task.md |
+| §62 | 草图表达构图与动作 | composition.md |
+| §63 | 打斗提示词（ACT 视角） | video-prompt.md |
+| §64 | 五种导演级打光 | lighting.md |
+| §65 | 原创 AI 角色捏脸 | character-performance.md |
 
 ## 按场景打开 reference
 
@@ -81,7 +85,10 @@
 | 故事板 / 导演调度 / 空镜 | director-storyboard.md |
 | 长视频多段衔接 | video-prompt.md §58 |
 | 短剧表演 / 调度 | character-performance.md §59 |
-| Agent 多步任务 / GCSD | workflows/agent-task.md |
+| 草图 / 站位 / 构图 | composition.md §62 |
+| 打斗 / ACT 运镜 | video-prompt.md §63 |
+| 五种打光 / 【光线布置】 | lighting.md §64 |
+| 原创捏脸 | character-performance.md §65 |
 | 演技 / 声音 / 妆造 | character-performance.md |
 | 局部改图 / 标注融合 | edit-fusion.md |
 | 胶卷 / 风格 / MJ 人像 | style-prompts.md |

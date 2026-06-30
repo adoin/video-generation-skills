@@ -293,6 +293,27 @@ blurred restaurant scene beyond the rim, refraction effects
 
 要点：故事板不是一次文生视频，而是**风格规则 + 场景底图 + 角色资产 + 分镜图**四层锁定后再视频化。详见 `ai-video-director/references/narrative/film-style.md` §三。
 
+### 案例：单张动画前期故事板 → 15s 短片（info-2898）
+
+> 溯源：[info-2898](https://www.super-i.cn/info-2898.html)（2026-06 站更）
+> 制片落地 → `ai-video-director/references/production/storyboard.md` §四
+
+**定位：** 非专业分镜表，而是给视频模型的**视觉提示板**——一图同时承载镜头顺序、角色参考、场景氛围、色板与 Notes。
+
+**版式（约 12 格）：** 左侧竖列 = 镜头顺序与段落；右侧 = 角色/道具参考；底部 = Notes / Camera / Color Palette / Details。
+
+| 步 | 动作 |
+|----|------|
+| 1 | LLM 用模板产出故事板提示词（先锁角色名、镜头顺序、场景范围） |
+| 2 | Image 2.0 出故事板；质检：12 格顺序、角色是否可辨、画风统一 |
+| 3 | 整板上传 Seedance 2.0 作视频参考 |
+
+| ❌ 不要 | ✅ 要 |
+|--------|------|
+| 无角色/剧情直接出板 | 先定角色与分镜顺序再画图 |
+| 单图赌多镜头视频 | 故事板 + 全能参考组合 |
+| 商业长片只靠此法 | 快速验证、教程展示、概念预演；正片仍须完整资产链 |
+
 ---
 
 ## §60 空镜与插入镜头
